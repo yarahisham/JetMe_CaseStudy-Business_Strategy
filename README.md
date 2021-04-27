@@ -21,11 +21,11 @@ You have decided to launch a new application in the transportation industry. Ube
 </p>
  
  <p align="center">
-<img src="https://github.com/yarahisham/JetMe_CaseStudy-Business_Strategy/blob/main/Images/Screen%20Shot%202021-04-27%20at%203.26.06%20AM.jpg" alt="alt text" width="700" height="400" >
+<img src="https://github.com/yarahisham/JetMe_CaseStudy-Business_Strategy/blob/main/Images/Screen%20Shot%202021-04-27%20at%203.26.06%20AM.jpg" alt="alt text" width="700" height="200" >
 </p>
 
 <p align="center">
-<img src="https://github.com/yarahisham/JetMe_CaseStudy-Business_Strategy/blob/main/Images/Screen%20Shot%202021-04-27%20at%203.26.13%20AM.jpg" alt="alt text" width="700" height="400" >
+<img src="https://github.com/yarahisham/JetMe_CaseStudy-Business_Strategy/blob/main/Images/Screen%20Shot%202021-04-27%20at%203.26.13%20AM.jpg" alt="alt text" width="700" height="200" >
 </p>
  
 ## Knowledge Officer Robric
